@@ -1,0 +1,14 @@
+*{margin: 0%; padding: 0%;  box-sizing: border-box;}
+body{background: #3494E6;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #EC6EAD, #3494E6);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #EC6EAD, #3494E6); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+    font-size: 2em; 
+    font-family: 'Times New Roman', Times, serif;}
+
+fieldset{width: 980px; margin-left: auto; margin-right: auto; text-align: center; background: black; color: white; width: 30%; margin-top: 6%; padding: 10px;}
+input{display: block; margin-left: auto; margin-right: auto; margin-top: 10px; margin-bottom: 15px; padding: 10px; font-size: .5em; text-align: center;}
+#cityWeather{background-color: orchid; color: azure; font-size: 18px;}
+span{margin-bottom: 20px; font-size: larger;}
+#location{ background-color: #3494E6; color: black; padding: 10px; margin-top: 10px; font-size: 0.5em;}
+
